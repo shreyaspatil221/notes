@@ -1,0 +1,13 @@
+{
+  "shoppingCart": "Shopping Cart",
+  "makePaymentLabel": "Make Payment",
+  "yourNumber": "Your Jio Number",
+  "primeMembership": "jio prime membership",
+  "benefits": "Benefits",
+  "linkedNumbersLabel": "Linked Numbers",
+  "noNumberSelected": "You have not selected any plan for this number",
+  "addPlanLabel": "Add Plan",
+  "rechargeLabel": "Recharge",
+  "monthlyPlan": " {{planName2}}-MONTHLY PLAN ",
+  "securityDeposit": "Security Deposit"
+}
